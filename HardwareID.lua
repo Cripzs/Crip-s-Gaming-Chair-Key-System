@@ -41,5 +41,5 @@ for i, v in next, hwid_list do
 end
  
 if hwid then
-	setclipboard(hwid)
+  setclipboard(hwid)
 end
