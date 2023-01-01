@@ -1,3 +1,4 @@
+local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/Jxereas/UI-Libraries/main/notification_gui_library.lua", true))()
 local response=((typeof(syn)=='table'and syn.request)or(typeof(http)=='table'and http.request)or(typeof(fluxus)=='table'and fluxus.request)or request or http_request)(
     {
         Url = "http://httpbin.org/get",
@@ -41,5 +42,6 @@ for i, v in next, hwid_list do
 end
  
 if hwid then
-  setclipboard(hwid)
+	setclipboard(hwid)
+	Notification.new("success", "Crip's Gaming Chair", "HardwareID pasted into Clipboard, send it to Crip") 
 end
