@@ -5,6 +5,11 @@ Loader:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Cripzs/Crip-s-Gaming-Chair-Key-System/main/main%20loader.lua"))()
 ```
 
+HardwareID Grabbe:
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cripzs/Crip-s-Gaming-Chair-Key-System/main/HardwareID.lua"))()
+```
+
 These scripts are not open-sourced so you can just copy the loader right away: Here is our Discord here you can get help and add suggestions! https://discord.gg/A9Qbj9a37M
 
 This script is in orion library
