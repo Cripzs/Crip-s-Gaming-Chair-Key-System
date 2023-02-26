@@ -1,4 +1,4 @@
-# Crip-s-Gaming-Chair
+# Crip-s-Gaming-Chair [Discontinued]
 
 Main Script: 
 ```lua
