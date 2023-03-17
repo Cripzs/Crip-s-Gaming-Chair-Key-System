@@ -16,4 +16,4 @@ These scripts are not open-sourced so you can just copy the loader right away: H
 
 This script is in orion library
 
-The current main developer is Crip#3175
+The current main developer was Crip#8864
