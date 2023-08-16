@@ -1,6 +1,6 @@
 # Crip-s-Gaming-Chair [Discontinued]
 
-## Crip's Gaming Chair was a roblox tool which is no longer supported you can **NOT** use it anymore.
+## Crip's Gaming Chair was a roblox script which is no longer maintained.
 
 Main Script: 
 ```lua
@@ -12,8 +12,6 @@ HardwareID Grabber:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Cripzs/Crip-s-Gaming-Chair-Key-System/main/HardwareID.lua"))()
 ```
 
-These scripts are not open-sourced so you can just copy the loader right away: Here is our Discord here you can get help and add suggestions! https://discord.gg/A9Qbj9a37M
+These scripts are closed-source, use the main loader instead, our discord: https://discord.gg/A9Qbj9a37M
 
-This script is in orion library
-
-The current main developer was Crip#8864
+The developer was cropw#0
