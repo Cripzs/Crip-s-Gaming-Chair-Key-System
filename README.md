@@ -14,4 +14,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Cripzs/Crip-s-Gaming-
 
 These scripts are closed-source, use the main loader instead, our discord: https://discord.gg/A9Qbj9a37M
 
-The developer was cropw#0
+The developer was cropww#0
