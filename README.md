@@ -12,6 +12,6 @@ HardwareID Grabber:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Cripzs/Crip-s-Gaming-Chair-Key-System/main/HardwareID.lua"))()
 ```
 
-These scripts are closed-source, use the main loader instead, our discord: https://discord.gg/A9Qbj9a37M
+Discord: https://discord.gg/A9Qbj9a37M
 
-The developer was cropww#0
+The developer was cropw#0
